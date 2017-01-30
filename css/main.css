@@ -3,3 +3,21 @@ html {
   color: #fff;
   background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
 }
+
+header {
+  text-align: center;
+}
+
+.btn {
+  color: #fff;
+  background-color: transparent;
+  border-radius: 4px;
+  border-color: rgba(255, 255, 255, .7);
+  border-width: 3px;
+}
+
+.btn:hover {
+  color: #ff5e3a;
+  background-color: #fff;
+  border-color: #fff;
+}
