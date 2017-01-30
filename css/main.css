@@ -1,8 +1,5 @@
 html {
   font-family: Overpass, sans-serif;
-
-}
-
-body {
+  color: #fff;
   background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
 }
